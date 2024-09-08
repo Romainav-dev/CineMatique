@@ -1,0 +1,25 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CineMatique
+build_property.RootNamespace = CineMatique
+build_property.ProjectDir = C:\Users\Romain\Documents\PROJETS\PERSONNELLE\CineMatique\CineMatique\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Romain\Documents\PROJETS\PERSONNELLE\CineMatique\CineMatique
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Romain/Documents/PROJETS/PERSONNELLE/CineMatique/CineMatique/Views/Film/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Romain/Documents/PROJETS/PERSONNELLE/CineMatique/CineMatique/Views/Home/Accueil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2N1ZWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
